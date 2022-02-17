@@ -1,0 +1,155 @@
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../fonts/montserrat-v23-latin-regular.woff2') format('woff2'), 
+         url('../fonts/montserrat-v23-latin-regular.woff') format('woff'); 
+  }
+
+  @font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('../fonts/montserrat-v23-latin-700.woff2') format('woff2'), 
+         url('../fonts/montserrat-v23-latin-700.woff') format('woff'); 
+  }
+
+.visually-hidden {
+    display: none;
+}  
+
+.container-fluid {
+    padding-bottom: 138px;
+}  
+
+.bg-dark {
+    background-color: #252B42 !important;
+}
+
+.d-flex {
+    justify-content: center !important;
+}
+
+
+
+.book {
+    font-family: 'Montserrat';
+font-weight: normal;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+letter-spacing: 0.2px;
+color: #FFFFFF;
+}
+
+.bootstrap {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 58px;
+    line-height: 80px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+}
+
+.words {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+}
+
+.now {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.1px;
+    color: #FFFFFF;
+    padding: 15px 40px;
+}
+
+.star {
+    align-items: center !important;
+    margin-top: 55px;
+}
+
+.star-text {
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+    margin-bottom: 0px;
+    margin-left: 12px;  
+}
+
+.stiv-book {
+    margin-top: 75px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.youtube {
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+}
+
+.inside {
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 50px;
+    letter-spacing: 0.2px;
+    color: #252B42;
+    margin-bottom: 80px;
+}
+
+.search {
+    margin-bottom: 192px;
+}
+
+.praise {
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 50px;
+    letter-spacing: 0.2px;
+    color: #252B42;
+    }
+
+.wrote {
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #252B42;
+}    
+
+.reading {
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 50px;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+    max-width: 303px;
+}
+
+.footer__text {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    color: #737373;
+}
